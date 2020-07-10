@@ -1,6 +1,6 @@
 PromptName,PromptSpeechPrefix,PromptSpeechPostfix,PromptText
 PROMPT_SPACE,,, 
-PROMPT_POINT,,,POINT
+PROMPT_POINT,,,PUNTO
 PROMPT_0,,,0
 PROMPT_1,,,1
 PROMPT_2,,,2
@@ -42,22 +42,22 @@ PROMPT_CHANNEL,,,CANAL
 PROMPT_CONTACT,,,CONTACTO
 PROMPT_DBM,,,D B M
 PROMPT_ENTRY,,,ENTRADA
-PROMPT_MEGAHERTZ,,,MEGAHERZIOS
-PROMPT_KILOHERTZ,,,KILOHERZIOS
+PROMPT_MEGAHERTZ,,,Megahertz
+PROMPT_KILOHERTZ,,,Kilohertz
 PROMPT_TALKGROUP,,,TALKGROUP
 PROMPT_TIMESLOT,,,TIMESLOT
 PROMPT_VFO,,,V F O
 PROMPT_SECONDS,,,Segundos
 PROMPT_Minutes,,,Minutos
 PROMPT_Hours,,,Horas
-PROMPT_VOLTS,,,Vóltios
-PROMPT_WATT,,,Watio
-PROMPT_WATTS,,,Watios
-PROMPT_MILLIWATTS,,,Milliwatios
+PROMPT_VOLTS,,,volts
+PROMPT_WATT,,,Watt
+PROMPT_WATTS,,,Watts
+PROMPT_MILLIWATTS,,,Milliwatts
 PROMPT_PERCENT,,,Porciento
 PROMPT_RECEIVE,,,Recepción
 PROMPT_Transmit,,,Transmisión
-PROMPT_HASH,,,Almohadilla
+PROMPT_HASH,,,Gato
 PROMPT_STAR,,,Asterisco
 PROMPT_GREEN,,,Verde
 PROMPT_RED,,,Rojo
@@ -65,21 +65,21 @@ PROMPT_VERSION,,,Versión
 PROMPT_MODE,,,Modo
 PROMPT_DMR,,,D M R
 PROMPT_FM,,,F M
-PROMPT_WIDE,,,Amplio
-PROMPT_NARROW,,,Estrecho
+PROMPT_WIDE,,,Ancho
+PROMPT_NARROW,,,Angosto
 PROMPT_PLUS,,,más
 PROMPT_MINUS,,,menos
-PROMPT_VFO_EXCHANGE_TX_RX,,,Exchange Tx and Rx frequencies
-PROMPT_VFO_COPY_RX_TO_TX,,,Copy Receive frequency to Transmit frequency
-PROMPT_VFO_COPY_TX_TO_RX,,,Copy Transmit frequency to Receive frequency
-PROMPT_POWER,,,power
-PROMPT_CHANNEL_MODE,,,channel mode
-PROMPT_SCAN_MODE,,,scan mode
-PROMPT_TIMESLOT_MODE,,,timeslot mode
-PROMPT_FILTER_MODE,,,filter mode
-PROMPT_ZONE_MODE,,,zone mode
-PROMPT_POWER_MODE,,,power mode
-PROMPT_COLORCODE_MODE,,,color code mode
+PROMPT_VFO_EXCHANGE_TX_RX,,,Cambia frecuencias Tx y Rx
+PROMPT_VFO_COPY_RX_TO_TX,,,Copia frecuencia recepción a transmisión
+PROMPT_VFO_COPY_TX_TO_RX,,,Copia frecuencia transmisión a recepción
+PROMPT_POWER,,,potencia
+PROMPT_CHANNEL_MODE,,,modo canal
+PROMPT_SCAN_MODE,,,modo escaneo
+PROMPT_TIMESLOT_MODE,,,modo timeslot
+PROMPT_FILTER_MODE,,,modo filtro
+PROMPT_ZONE_MODE,,,modo zona
+PROMPT_POWER_MODE,,,modo potencia
+PROMPT_COLORCODE_MODE,,,modo código color
 PROMPT_TBD1,,,
 PROMPT_TBD2,,,
 PROMPT_TBD3,,,
@@ -100,14 +100,14 @@ PROMPT_TBD17,,,
 PROMPT_TBD18,,,
 PROMPT_TBD19,,,
 PROMPT_TBD20,,,
-LANGUAGE_NAME,,,Español
+LANGUAGE_NAME,,,Español Mexico
 menu,,,Menú
 credits,,,Créditos
 zone,,,Zona
-rssi,,,RSSI
+rssi,,,R S S I
 battery,,,Batería
 contacts,,,Contactos
-firmware_info,,,Información Firmware
+firmware_info,,,Información de Firmware
 last_heard,,,Últimos escuchados
 options,,,Opciones
 display_options,,,Opciones pantalla
@@ -123,13 +123,13 @@ zones,,,Zonas
 keypad,,,Teclado
 ptt,,,P T T
 locked,,,Bloqueado
-press_blue_plus_star,,,Pulsa azul y asterisco
+press_blue_plus_star,,,Pulsa botón azul y asterisco
 to_unlock,,,para desbloquear
 unlocked,,,Desbloqueado
 power_off,,,Apagando...
-error,,,ERROR
+error,,,error
 rx_only,,,Solo Recepción
-out_of_band,,,FUERA DE BANDA
+out_of_band,,,Fuera de la banda
 timeout,,,TIMEOUT
 tg_entry,,,Entrar T G
 pc_entry,,,Entrar P C
@@ -137,11 +137,11 @@ user_dmr_id,,,I D Usuario
 contact ,,,Contacto
 accept_call,,,Aceptar llamada privada?
 private_call,,,Llamada Privada
-squelch,,,escuelch
+squelch,,,squelch
 quick_menu ,,,Menú rápido
 filter,,,Filtro
 all_channels,,,Lista Canales
-gotoChannel,,,Ir a canal
+gotoChannel,,,Ir al canal
 scan,,,Escanear
 channelToVfo,,,Canal a V F O
 vfoToChannel,,,V F O a Canal
@@ -162,21 +162,21 @@ colour_code,,,Código Color
 n_a,,,N/A
 bandwidth,,,Ancho banda
 stepFreq,,,Paso
-tot,,,TOT
-off,,,Off
+tot,,,T O T
+off,,,apagado
 zone_skip,,,Saltar zona
 all_skip,,,Saltar todo
 yes,,,Si
 no,,,No
-rx_group,,,Grpupo recepción
+rx_group,,,Grupo recepción
 on,,,Activado
-timeout_beep,,,Sonido TOT
-factory_reset,,,Reset fabrica
+timeout_beep,,,Sonido T O T
+factory_reset,,,Reset fábrica
 calibration,,,Calibración
-band_limits,,,Limite Banda
+band_limits,,,Limites de Banda
 beep_volume,,,Volumen pitido
-dmr_mic_gain,,,Micro D M R
-fm_mic_gain,,,Micro F M
+dmr_mic_gain,,,Ganancia Micro D M R
+fm_mic_gain,,,Ganancia Micro F M
 key_long,,,Pulsación larga
 key_repeat,,,Repecición de tecla
 dmr_filter_timeout,,,Tiempo límite de filtro
@@ -185,25 +185,25 @@ brightness_off,,,Brillo mínimo
 contrast,,,Contraste
 colour_invert,,,Color Invertido
 colour_normal,,,Color Normal
-backlight_timeout,,,Tiempo luz
-scan_delay,,,Tiempo Scan
+backlight_timeout,,,Tiempo iluminación
+scan_delay,,,Retardo Scaneo
 yes___in_uppercase,,,SI
 no___in_uppercase,,,NO
 DISMISS,,,DESCARTAR
-scan_mode,,,Modo Scan
+scan_mode,,,Modo Scaneo
 hold,,,Detener
 pause,,,Pausar
 empty_list,,,Lista vacía
 delete_contact_qm,,,Borrar contacto?
 contact_deleted,,,Contacto borrado
 contact_used,,,Contacto usado
-in_rx_group,,,en grupo RX
-select_tx,,,Selecciona TX
+in_rx_group,,,en grupo R X
+select_tx,,,Selecciona T X
 edit_contact,,,Editar contacto
 delete_contact,,,Borrar contacto
-group_call,,,Llamada Grupo
+group_call,,,Llamada de Grupo
 all_call,,,Llamada Todos
-tone_scan,,,Tono scan
+tone_scan,,,Tono scaneo
 low_battery,,,BATERÍA BAJA!!!
 Auto,,,Automático
 manual,,,Manual
@@ -213,14 +213,14 @@ stop,,,Parar
 one_line,,,1 linea
 two_lines,,,2 linea
 new_channel,,,Nuevo canal
-priority_order,,,Orden
+priority_order,,,Orden de prioridad
 dmr_beep,,,D M R beep
 start,,,Inicio
 both,,,Ambos
 vox_threshold,,,VOX Ganancia
 vox_tail,,,VOX cola
 audio_prompt,,,Prompt
-silent,,,Silent
+silent,,,Silencio
 normal,,,Normal
 beep,,,Pitido
 voice_prompt_level_1,,,Voz
@@ -228,10 +228,10 @@ transmitTalkerAlias,,,Talker Alias Transmit
 squelch_VHF,,,V H F squelch
 squelch_220,,,220 Megahertz squelch
 squelch_UHF,,,U H F squelch
-display_background_colour,,,display background colour
+display_background_colour,,,despliega color de fondo
 openGD77,,,Open G D 77
 openGD77S,,,Open G D 77 S
-openDM1801,,,Open D M 18 0 1
+openDM1801,,,Open D M 1 8 0 1
 openRD5R,,,Open R D 5 R
 gitCommit,,,Git revision
 voice_prompt_level_2,,,Voz 2
